@@ -13,8 +13,9 @@ Currently I'm the Ph.D student in the School of Computing and Information System
 **Contact Information:** cryang [at] smu [dot] edu [dot] sg 
 
 # News
-+ March, 2022: "PTM4Tag: Sharpening Tag Recommendation of Stack Overflow with Pre-trained Models" is accepted by ICPC'22.
++ Aug. 2022: "Answer Summarization for Technical Queries: Benchmark and New Approach" is accepted by ASE'22
++ Mar. 2022: "PTM4Tag: Sharpening Tag Recommendation of Stack Overflow with Pre-trained Models" is accepted by ICPC'22.
 + Feb. 2022: "Post2Vec: Learning Distributed Representations of Stack Overflow Posts" is accepted by ICSE 2022 Journal First Track.
-+ December, 2021: "Aspect-Based API Review Classification: How Far Can Pre-Trained Transformer Model Go?" is accepted by SANER'22. 
-+ December, 2021: "Efficient Search of Live-Coding Screencasts from Online Videos" is accepted by SANER'22 ERA Track. 
-+ June, 2021: "Post2Vec: Learning Distributed Representations of Stack Overflow Posts" is accepted by IEEE TSE. 
++ Dec. 2021: "Aspect-Based API Review Classification: How Far Can Pre-Trained Transformer Model Go?" is accepted by SANER'22. 
++ Dec. 2021: "Efficient Search of Live-Coding Screencasts from Online Videos" is accepted by SANER'22 ERA Track. 
++ Jun. 2021: "Post2Vec: Learning Distributed Representations of Stack Overflow Posts" is accepted by IEEE TSE. 
