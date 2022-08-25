@@ -6,9 +6,9 @@ main:
   # - title: "Research Topics"
   #   url: /talks/    
 
-  # - title: "News"
-  #   url: /news/    
+  # - title: "About Me"
+    # url: /about/    
         
-  # - title: "CV"
-  #   url: /cv/
+  - title: "CV"
+    url: /cv/
     

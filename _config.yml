@@ -96,7 +96,7 @@ author:
   facebook         :
   foursquare       :
   github           : "https://github.com/autumn-city/"
-  resume           : "_data/resume/Yang_Chengran_CV.pdf"
+  google_plus      : "_data/resume/Yang_Chengran_CV.pdf"
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
@@ -113,6 +113,7 @@ author:
   xing             :
   youtube          :
   wikipedia        :
+  
 
 
 # Reading Files
