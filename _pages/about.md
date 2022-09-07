@@ -11,6 +11,8 @@ redirect_from:
 Currently I'm the second year Ph.D student in the School of Computing and Information Systems at Singapore Management University, supervised by Prof. [David Lo](http://www.mysmu.edu/faculty/davidlo/) from 2021. In general, I'm interested in the data-driven automated software engineering.
 
 **Contact Information:** cryang [at] smu [dot] edu [dot] sg 
+
+
 **Resume** [CV](https://autumn-city.github.io/files/resume.pdf) 
 
 # News
