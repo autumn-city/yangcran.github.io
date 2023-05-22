@@ -13,8 +13,8 @@ Currently I'm the second year Ph.D student in the School of Computing and Inform
 
 # News
 
-+ Jan. 2023: "TECHSUMBOT: A Stack Overflow Answer
-  Summarization Tool for Technical Query" is accepted by ICSE'23 tool demo track
++ May. 2023: "Multi-Granularity Detector for Vulnerability FixesTECHSUMBOT: A Stack Overflow Answer Summarization Tool for Technical Que" is accepted by IEEE TSE.
++ Jan. 2023: "TECHSUMBOT: A Stack Overflow Answer Summarization Tool for Technical Query" is accepted by ICSE'23 tool demo track
 + Aug. 2022: "Answer Summarization for Technical Queries: Benchmark and New Approach" is accepted by ASE'22
 + Mar. 2022: "PTM4Tag: Sharpening Tag Recommendation of Stack Overflow with Pre-trained Models" is accepted by ICPC'22.
 + Feb. 2022: "Post2Vec: Learning Distributed Representations of Stack Overflow Posts" is accepted by ICSE 2022 Journal First Track.
