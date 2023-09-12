@@ -24,4 +24,6 @@ Currently I'm the second year Ph.D student in the School of Computing and Inform
 
 # Service
 
-Junior-PC member MSR 2023
+Junior-PC member: MSR 2023
+
+PC menber: APSEC2023 Student Research Competition
